@@ -1,2 +1,2 @@
 # SOSbot
- a discord bot that helps people get in contact with helpers
+ a discord bot that helps people get in contact with SOS helpers
